@@ -1,0 +1,12 @@
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/bin/Debug/net8.0/Finances.Data.deps.json
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/bin/Debug/net8.0/Finances.Data.dll
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/bin/Debug/net8.0/Finances.Data.pdb
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/obj/Debug/net8.0/Finances.Data.csproj.AssemblyReference.cache
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/obj/Debug/net8.0/Finances.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/obj/Debug/net8.0/Finances.Data.AssemblyInfoInputs.cache
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/obj/Debug/net8.0/Finances.Data.AssemblyInfo.cs
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/obj/Debug/net8.0/Finances.Data.csproj.CoreCompileInputs.cache
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/obj/Debug/net8.0/Finances.Data.dll
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/obj/Debug/net8.0/refint/Finances.Data.dll
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/obj/Debug/net8.0/Finances.Data.pdb
+/Users/joshuafoster/Git/finances/finances.api/Finances.Data/obj/Debug/net8.0/ref/Finances.Data.dll
